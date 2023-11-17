@@ -1,2 +1,4 @@
 # 2023MusicJam
-Craft & Swap
+Craft Swap
+https://applenorshypnos.itch.io/craft-swap
+https://itch.io/jam/gmjam2023

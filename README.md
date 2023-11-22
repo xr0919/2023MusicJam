@@ -1,6 +1,6 @@
 # 2023 MusicGameJam
 # <p align="center" >Craft Swap</p>  
-<p align="center">https://applenorshypnos.itch.io/craft-swap</p>
+<p align="center">https://itch.io/jam/gmjam2023/rate/2361251</p>
 
 
 ![Craft Swap](https://github.com/xr0919/23MusicJam_Craft_Swap/assets/62006691/c341b22d-d9b1-4ded-bf22-44749fd2075c)

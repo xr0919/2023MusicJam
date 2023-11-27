@@ -1,5 +1,5 @@
 # <p align="center" >Game/Music Jam '23</p>
-# <p align="center" >Craft Swap</p>  
+## <p align="center" >Craft Swap</p>  
 <p align="center" ><strong>🏆 Best Thematic Interpretation Award in Game Design</strong></p>  
 <p align="center" ><strong>🏆 Best Visual Design Award</strong></p>  
 <p align="center">https://itch.io/jam/gmjam2023/rate/2361251</p>
